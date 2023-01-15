@@ -1,0 +1,23 @@
+
+
+.application{
+    width: 160px;
+}
+
+
+.footer_content{
+    font-size: .9rem;
+    display: block;
+}
+.footer__img{
+    border-radius: 16px;
+    width: 92px;
+    height: 104px;
+}
+.footer__info{
+    color: #5d3ebc;
+}
+.social{
+    font-size: 1.4rem;
+    opacity: .6;
+}

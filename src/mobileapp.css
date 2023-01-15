@@ -1,0 +1,9 @@
+.mobile__second img{
+    width: 600px ;
+}
+.mobileapp{
+    background-color: #5D3EBC;
+    border-radius: 10px;
+    animation: 0s ease 0s 1 normal none running none;
+    background-image: url(https://cdn.getir.com/getirweb-images/common/illustration/doodle.png)
+}

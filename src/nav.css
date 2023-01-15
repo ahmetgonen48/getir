@@ -1,0 +1,28 @@
+.nav{
+    background-color: #7849f7;
+    height:50px;
+}
+.navbar__{
+    width: 100%;
+    max-width: 1232px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+    align-items: center;
+
+}
+.navbar__ a{
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    width: auto;
+    height: 100%;
+    padding: 15px;
+
+}
+.navbar__ a:hover{
+    background-color: #5d3ebc;
+}
+.opa{
+    opacity: .9;
+}

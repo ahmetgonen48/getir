@@ -1,0 +1,20 @@
+.grid-10{
+    width: 10%;
+}
+.img{
+    border: solid 1px rgb(215, 212, 212) ;
+    border-radius: 5px;
+    
+}
+.catogorys:hover{
+    color: rgb(120, 73, 247);
+    background-color: rgba(120, 73, 247, .1);
+}
+
+@media only screen and (max-width: 998px) {
+    .grid-10{
+        width:20%;
+    }
+
+    
+}
